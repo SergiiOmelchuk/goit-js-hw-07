@@ -1,0 +1,36 @@
+.container {
+  width: 400px;
+  min-height: 400px;
+  margin: 0 auto 0;
+  background-color: burlywood;
+  padding: 15px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-label {
+  margin-left: 25px;
+}
+
+.input-label {
+  margin-left: 25px;
+}
+
+span {
+  background-color: lightblue;
+  padding: 3px;
+}
+
+.create-btn {
+  display: block;
+  margin: 0 auto;
+  border: 5px solid greenyellow;
+  border-radius: 5px;
+  background-color: blueviolet;
+  color: greenyellow;
+  font-size: 24x;
+  font-weight: 700;
+}
